@@ -32,7 +32,7 @@ Short, spoiler-free, fully in-story posts to build anticipation. Copy and paste,
 
 > 🌊 *The Grand Lake is so wide you can't see the other side. A fisherman once told me it takes a day and a night to cross, and that the water remembers everything it swallows.*
 >
-> *The soldiers say the lake belongs to the Marquise. The fishermen say it belongs to no one but them. Someone in Bertram's Cove is about to have a very long night.* 🌙
+> *The soldiers say the lake belongs to the Marquise. The fishermen say it belongs to no one but them. Someone in Bertram's Cove is about to have a very long day.* 🌅
 
 ---
 
