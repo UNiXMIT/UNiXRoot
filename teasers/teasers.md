@@ -1,10 +1,10 @@
 # Group Chat Teasers
 
-Short, spoiler-free posts to build anticipation. Copy and paste, or adjust to your voice. Suggested schedule runs backward from game day. Pick any 3-5.
+Short, spoiler-free, fully in-story posts to build anticipation. Copy and paste, or adjust to your voice. The schedule runs backward from game day. Use all four, or pick the ones you like.
 
 ---
 
-## Teaser 1 (5 days before): The Invitation
+## Teaser 1 (4 days before): The Invitation
 
 > 🌲 *A letter, sealed with a smear of pine tar, has found its way to six strangers...*
 >
@@ -14,17 +14,7 @@ Short, spoiler-free posts to build anticipation. Copy and paste, or adjust to yo
 
 ---
 
-## Teaser 2 (4 days before): Homework
-
-> 📜 *Word from the Cove: they'll take any vagabond who has a name.*
->
-> Before the game, start thinking about **your vagabond's name** and **what kind of animal you are** (fox? mouse? owl? something odd?). Don't stress, there's no wrong answer. I'll send your character sheet soon.
->
-> Also: **bring a pencil and a good mood.** 🐭
-
----
-
-## Teaser 3 (3 days before): The Poster
+## Teaser 2 (3 days before): The Poster
 
 > *Nailed to every post along the waterfront, there's a face. Red eyes. Scars. Too many teeth. It looks ridiculous, and yet...*
 >
@@ -38,17 +28,15 @@ Short, spoiler-free posts to build anticipation. Copy and paste, or adjust to yo
 
 ---
 
-## Teaser 4 (2 days before): The Lake
+## Teaser 3 (2 days before): The Lake
 
 > 🌊 *The Grand Lake is so wide you can't see the other side. A fisherman once told me it takes a day and a night to cross, and that the water remembers everything it swallows.*
 >
-> **Rumors are coming in on the tide:** a ship that went down in the night, something shiny at the bottom, and two armies who both want it.
->
-> Anyone here good at holding their breath? 🤿
+> *The soldiers say the lake belongs to the Marquise. The fishermen say it belongs to no one but them. Someone in Bertram's Cove is about to have a very long night.* 🌙
 
 ---
 
-## Teaser 5 (1 day before): The Dock at Dawn
+## Teaser 4 (1 day before): The Dock at Dawn
 
 > ⚓ *Tomorrow, the Twice Sunk sails.*
 >
@@ -56,7 +44,7 @@ Short, spoiler-free posts to build anticipation. Copy and paste, or adjust to yo
 >
 > **Six vagabonds. One ship. One town on the edge of the lake that is not as quiet as it looks.**
 >
-> **See you at the dock.** 🌅
+> **The *Twice Sunk* sails at dawn.** 🌅
 
 ---
 
@@ -66,13 +54,13 @@ Short, spoiler-free posts to build anticipation. Copy and paste, or adjust to yo
 >
 > **Bertram's Cove is waking up.**
 >
-> **Ready?** 🎲
+> **Step off the plank.** 🌅
 
 ---
 
 ## Optional "character reveal" teasers (one per player)
 
-Once players pick their quick build, you can post one line each. No spoilers, just flavor:
+Optional one-liners, one per vagabond. Post them any day. No spoilers, just flavor:
 
 - **Marline (Adventurer):** *"A kindly traveler with a quiet talent for making friends. Or favors."*
 - **Michelle (Harrier):** *"Fast. Lucky. Always one step ahead of whatever's chasing her."*
