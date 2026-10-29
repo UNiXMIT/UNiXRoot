@@ -1,4 +1,4 @@
-# Root RPG - Bertram's Cove Project (AI Context File)
+# Root RPG - Bertram's Cove Project
 
 AI assistants: read this file first and update it whenever decisions or deliverables change.
 
