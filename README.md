@@ -50,7 +50,7 @@ Working title (ours): **"The Night the Cove Nearly Burned"**.
 |---|---|---|---|
 | 1 | GM cheat sheets | `gm/01-gm-quick-start.md`, `gm/02-rules-reference.md`, `gm/03-npcs-and-places.md` | Draft done |
 | 2 | Player cheat sheets | `players/00-how-to-play.md`, `players/01-woodland-and-the-cove.md`, six character sheets | Draft done |
-| 3 | Adventure help (start, pacing, what may happen) | `gm/00-session-1-hook-and-opening.md` (hook, opening, prize, next-session leads), `gm/04-adventure-guide.md`, `gm/05-character-hooks.md` | Draft done |
+| 3 | Adventure help (start, pacing, what may happen) | `gm/00-session-1-hook-and-opening.md` (hook, opening, prize, next-session leads), `gm/04-adventure-guide.md`, `gm/05-character-hooks.md`, `gm/06-gm-at-the-table-card.md` (one-page printable card) | Draft done |
 | 4 | Group chat teasers | `teasers/teasers.md` | Draft done |
 | 5 | This summary file | `README.md` | Active |
 

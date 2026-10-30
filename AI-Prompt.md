@@ -29,6 +29,7 @@ Before answering anything, read the repo from that URL:
    - gm/03-npcs-and-places.md : NPCs, harm tracks, locations
    - gm/04-adventure-guide.md : pacing, structure, what may happen
    - gm/05-character-hooks.md : per-character hooks and ties
+   - gm/06-gm-at-the-table-card.md : one-page printable GM card (clock, NPCs, clues, escalations)
    - players/ : player-facing how-to-play, Woodland and Cove primer, and six character sheets (Marline/Adventurer, Michelle/Harrier, Ben/Ranger, Noah/Tinker, Katie/Arbiter, Nick/Thief)
    - teasers/teasers.md : spoiler-free group chat teasers
    - assets/pdfs/ : official source material (Bertram's Cove module, reference sheet, playbooks, play materials). Read these only if a question needs them and you can open PDFs.
