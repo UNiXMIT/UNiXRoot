@@ -16,7 +16,7 @@ Short, spoiler-free, fully in-story posts to build anticipation. Copy and paste,
 
 ## Teaser 2 (3 days before): The Poster
 
-> *Nailed to every post along the waterfront, there's a face. Red eyes. Scars. Too many teeth. It looks ridiculous, and yet...*
+> *Nailed to every post along the waterfront, there's a face. Red eyes. Scars...*
 >
 > **WANTED: CAPTAIN SPARROWHAWK. DEAD OR ALIVE.**
 >

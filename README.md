@@ -26,7 +26,7 @@ First-time GM running Root: The Roleplaying Game (Magpie Games) for 6 friends wh
 
 Quick builds are suggestions; players may change anything. Starting gear Value budgets: Adventurer 9, Arbiter 10, Harrier 9, Ranger 9, Thief 6, Tinker 8.
 
-## Source files (in `PDFs/`)
+## Source files (in `assets/pdfs/`)
 | File | What it is | Used for |
 |---|---|---|
 | `RootRPG-BertramsCove.pdf` | Free RPG Day quickstart: basic/weapon/reputation moves, harm, the Cove clearing, 6 pregens | Adventure, NPCs, places, special rules |
@@ -35,7 +35,7 @@ Quick builds are suggestions; players may change anything. Starting gear Value b
 | `Root-Pad-Clearings.pdf`, `Root-Pad-Woodland.pdf` | Blank record sheets | Optional campaign tracking |
 | `QuickstartRootRPG.pdf` | **Older Kickstarter-era quickstart (2018/19). Rules marked "not final": uses "decay" instead of depletion/wear, different burden rules, no Adventurer or Harrier.** | **Not used for rules.** Its Woodland map generator, clearing encounter tables and initial-situation generator are handy for later sessions |
 
-Notes: text was extracted with pypdf and pre-marked playbook choices were read from rendered page images. Some NPC harm tracks were counted from printed boxes (see `gm/03-npcs-and-places.md`). The full core rulebook is not in `PDFs/`; check the book for anything beyond the playbook pack and quickstart.
+Notes: text was extracted with pypdf and pre-marked playbook choices were read from rendered page images. Some NPC harm tracks were counted from printed boxes (see `gm/03-npcs-and-places.md`). The full core rulebook is not in `assets/pdfs/`; check the book for anything beyond the playbook pack and quickstart.
 
 ## Adventure at a glance (spoilers)
 Working title (ours): **"The Night the Cove Nearly Burned"**.
